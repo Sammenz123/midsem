@@ -1,0 +1,25 @@
+h1{
+    font-size: 50;
+    color: black;
+    align-items: center;
+    margin-left: 200px;
+}
+table,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    justify-content: center;
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+h2{
+    margin-left: 300px;
+    text-decoration-line: underline;
+}
+img{
+    margin-left: 350px;
+}
+p{
+    margin-left: 300px;
+    font-size: 30px;
+    color: black;
+}
